@@ -27,17 +27,17 @@ This project was built for academic purposes to demonstrate practical skills in 
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](images/welcome.png)
+![Dashboard](screenshots/welcome.png)
 
 ### login View
-![login](images/login.png)
+![login](screenshots/login.png)
 
 
 ### trainer Management
-![Trainer Management](images/trainer.png)
+![Trainer Management](screenshots/trainer.png)
 
 ### Calendar View
-![Calendar](images/student.png)
+![Calendar](screenshots/student.png)
 
 ## 🚀 Installation
 1. Clone the repository
